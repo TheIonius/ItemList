@@ -10,10 +10,10 @@ Welcome to the **ItemList Project**, a simple yet functional application for man
 
 ## Preview
 
-![Home Page](./images/home-page.png)
+![Home Page]<link rel="icon" type="image/png" href="/home-page.png" />
 *The main interface where you can manage your items.*
 
-![Dark Mode](./images/dark-mode.png)
+![Dark Mode]<link rel="img" type="image/png" href="/dark-mode.png" />
 *The app in dark mode.*
 
 ## Technologies Used
