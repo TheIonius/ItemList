@@ -8,14 +8,6 @@ Welcome to the **ItemList Project**, a simple yet functional application for man
 - Toggle between light and dark mode.
 - Responsive design for all screen sizes.
 
-## Preview
-
-![Home Page]<link rel="icon" type="image/png" href="/home-page.png" />
-*The main interface where you can manage your items.*
-
-![Dark Mode]<link rel="img" type="image/png" href="/dark-mode.png" />
-*The app in dark mode.*
-
 ## Technologies Used
 - **React**: For building the user interface.
 - **React Router DOM**: For seamless navigation between pages.
