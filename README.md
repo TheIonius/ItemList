@@ -1,5 +1,5 @@
 
-# ItemList Project
+# ItemList
 
 Welcome to the **ItemList Project**, a simple yet functional application for managing items. This project is built using **React**, **Tailwind CSS**, and **Framer Motion** for smooth animations.
 
