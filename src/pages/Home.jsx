@@ -74,7 +74,7 @@ const Home = ({ items, setItems }) => {
           placeholder="Search items..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="border p-2 mb-4 w-full rounded-lg placeholder-gray-400"
+          className="text-gray-700 border p-2 mb-4 w-full rounded-lg placeholder-gray-400"
         />
         <AddItem onAdd={handleAddItem} />
         <ItemList items={filteredItems} onEdit={handleEditItem} onDelete={handleDeleteItem} />
